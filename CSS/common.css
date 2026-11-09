@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkorchid;
+}
+ul {
+    font-style: italic;
+    border: 1px solid black;
+    border-radius: 4px;
+}
